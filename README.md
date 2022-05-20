@@ -1,6 +1,6 @@
 # Orkut-Interface
  
-<p>Acesse o Projeto <a href="https://limadev-max.github.io/Orkut-Interface/">aqui</a>.</p>
+<p>Acesse o Projeto <a href="https://limadev-max.github.io/Orkut-Login/">aqui</a>.</p>
 
 ## Descrição
 
