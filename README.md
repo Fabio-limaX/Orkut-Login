@@ -14,4 +14,4 @@
 
 
 ## Layout 
-![image](https://raw.githubusercontent.com/LimaDev-Max/Orkut-Interface/ac15615b1c0f372d96d76dae2385918f71ce6e71/imgs/Orkut-Interface.png)
+![image]()
